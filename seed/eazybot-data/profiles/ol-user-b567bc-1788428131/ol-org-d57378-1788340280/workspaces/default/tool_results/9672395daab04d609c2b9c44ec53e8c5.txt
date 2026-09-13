@@ -1,0 +1,26 @@
+[当前工作目录: /Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default]
+===本机当前org(d57378) .secret 详细===
+total 16
+drwx------   5 jiangjie  staff  160 Sep 13 12:06 .
+drwxr-xr-x  18 jiangjie  staff  576 Sep 13 19:02 ..
+-rw-------   1 jiangjie  staff   64 Sep 10 00:05 .master_key
+-rw-------   1 jiangjie  staff  946 Sep 13 18:38 auth.json
+drwx------   6 jiangjie  staff  192 Sep 10 00:05 providers
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/.secret/providers/active_model.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/.secret/providers/builtin/minimax-cn.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/.secret/providers/builtin/eazydevelop.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/.secret/providers/builtin/opencode.json
+===org-1fea79 .secret 详细===
+total 16
+drwx------   5 jiangjie  staff  160 Sep 13 08:26 .
+drwxr-xr-x  14 jiangjie  staff  448 Sep 13 11:06 ..
+-rw-------   1 jiangjie  staff   64 Sep 12 22:51 .master_key
+-rw-------   1 jiangjie  staff  738 Sep 13 10:54 auth.json
+drwx------   6 jiangjie  staff  192 Sep 12 22:51 providers
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/active_model.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/builtin/eazydevelop.json
+===备份的providers文件===
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default/media/finbot_assets/FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/active_model.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default/media/finbot_assets/FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/builtin/eazydevelop.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default/media/finbot_assets/FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-93a2be-1785650766/.secret/providers/active_model.json
+/Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default/media/finbot_assets/FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-93a2be-1785650766/.secret/providers/builtin/eazydevelop.json

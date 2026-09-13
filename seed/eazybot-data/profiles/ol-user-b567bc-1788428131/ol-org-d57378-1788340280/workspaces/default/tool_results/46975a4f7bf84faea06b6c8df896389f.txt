@@ -1,0 +1,55 @@
+[当前工作目录: /Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default]
+Archive:  FinBot-assets-backup-20260913.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+    19606  09-13-2026 18:27   FinBot-assets/config.json
+      149  09-13-2026 13:45   FinBot-assets/HEARTBEAT.md
+     1369  09-13-2026 13:57   FinBot-assets/profiles.json
+    19536  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/config.json
+    14495  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/eazybot.log
+      120  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/enterprise_sync.json
+       64  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/.master_key
+      745  09-13-2026 18:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/auth.json
+       56  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/active_model.json
+      853  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/.secret/providers/builtin/eazydevelop.json
+        0  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/.reme_store_v1
+    17731  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/agent.json
+     2644  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/AGENTS.md
+     1404  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/BOOTSTRAP.md
+       36  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/chats.json
+      149  09-13-2026 13:45   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/HEARTBEAT.md
+       35  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/jobs.json
+      500  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/MEMORY.md
+      675  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/PROFILE.md
+    31309  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skill.json
+     1761  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/SOUL.md
+        0  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/file_store/memory_chunks.jsonl
+        2  09-13-2026 13:57   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/file_store/memory_file_metadata.json
+     6597  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/browser_cdp/SKILL.md
+     4117  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/browser_visible/SKILL.md
+     5934  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/channel_message/SKILL.md
+     4687  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/chat_with_agent/SKILL.md
+     6986  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/cron/SKILL.md
+     8514  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/dingtalk_channel/SKILL.md
+     1497  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/LICENSE.txt
+    18087  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/SKILL.md
+     4366  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/accept_changes.py
+    11012  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/comment.py
+        2  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/__init__.py
+     5150  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/pack.py
+     6992  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/soffice.py
+     4184  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/unpack.py
+     3779  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/validate.py
+     5766  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/helpers/merge_runs.py
+     5951  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/helpers/simplify_redlines.py
+        0  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/helpers/__init__.py
+     2005  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd
+     2565  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd
+     2905  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd
+     1377  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd
+    76483  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd
+     7102  09-12-2026 11:27   FinBot-assets/profiles/ol-user-9c6c95-1785650766/ol-org-1fea79-1774254966/workspaces/default/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd
+===目录统计===
+1400 FinBot-assets/profiles/
+ 340 FinBot-assets/skill_pool/
+ 349 FinBot-assets/workspaces/

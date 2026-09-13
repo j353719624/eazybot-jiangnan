@@ -1,0 +1,478 @@
+{
+  "schema_version": "workspace-skill-manifest.v1",
+  "version": 1789268058832,
+  "skills": {
+    "browser_cdp": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "browser_cdp",
+        "description": "当用户明确希望连接到已运行的 Chrome 浏览器、扫描本地 CDP 端口、显式指定 `cdp_port`，或让多个 agent / 工具共享同一个浏览器时，使用本 skill。当前 browser_use 默认已使用 managed CDP 启动浏览器；如果用户不希望暴露浏览器历史、Cookies 等敏感信息，推荐改用 `private_mode=true` 的隐私模式。",
+        "version_text": "1.2",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.112715Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.112715Z",
+      "config": {}
+    },
+    "browser_visible": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "browser_visible",
+        "description": "当用户需要控制 browser_use 的浏览器启动方式时，使用本 skill。当前 browser_use 默认使用 managed CDP 启动本地 Chrome/Chromium；`headed` 控制是否显示窗口，`private_mode` 控制是否禁用 CDP、改走 Playwright，`browser_args` 传入额外的 Chromium 启动参数，`executable_path` 指定自定义浏览器可执行文件路径。",
+        "version_text": "1.3",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.545485Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.545485Z",
+      "config": {}
+    },
+    "channel_message": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "channel_message",
+        "description": "当需要主动向用户、会话或频道单向发送消息时，使用本 skill。通常仅在用户明确要求向某个 channel / 会话发送消息，或需要主动通知时使用。先用 eazybot chats list 查询 session，再用 eazybot channels send 推送消息。",
+        "version_text": "1.3",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.127852Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.127852Z",
+      "config": {}
+    },
+    "chat_with_agent": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "chat_with_agent",
+        "description": "当你需要咨询其他 agent、寻求帮助，或用户明确要求某个 agent 参与时，使用本 skill。",
+        "version_text": "1.2",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.557515Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.557515Z",
+      "config": {}
+    },
+    "cron": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "cron",
+        "description": "仅在需要未来定时执行或周期执行任务时，使用本 skill。使用 eazybot cron list/create/get/state/pause/resume/delete/run 管理任务，并始终显式传入 --agent-id。",
+        "version_text": "1.5",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.125720Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.125720Z",
+      "config": {}
+    },
+    "dingtalk_channel": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "dingtalk_channel",
+        "description": "使用可视浏览器自动完成 EazyBot 的钉钉频道接入。适用于用户提到钉钉、DingTalk、开发者后台、Client ID、Client Secret、机器人、Stream 模式、绑定或配置 channel 的场景；支持遇到登录页时暂停，等待用户登录后继续。",
+        "version_text": "1.3",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.112956Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.112956Z",
+      "config": {}
+    },
+    "docx": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "docx",
+        "description": "当用户需要创建、读取、编辑或处理 Word 文档（.docx）时，使用此技能。触发场景包括提到“Word 文档”、“.docx”，或要求生成带目录、标题、页码、信头等格式的专业文档；也包括提取或重组 .docx 内容、插入或替换图片、在 Word 文件中查找替换、处理修订或批注，以及将内容整理为正式 Word 文档。如果用户要求生成“报告”“备忘录”“信函”“模板”等 Word / .docx 交付物，也应使用此技能。不要用于 PDF、电子表格、Google Docs，或与文档生成无关的一般编程任务。",
+        "version_text": "1.1",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.860076Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.860076Z",
+      "config": {}
+    },
+    "file_reader": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "file_reader",
+        "description": "仅用于读取和总结文本类文件。文本格式优先使用 read_file；需要做类型探测时使用 execute_shell_command。PDF、Office、图片和压缩包由其他技能处理。",
+        "version_text": "1.2",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.123038Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.123038Z",
+      "config": {}
+    },
+    "himalaya": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "himalaya",
+        "description": "通过 IMAP/SMTP 管理邮件的命令行工具。使用 `himalaya` 可以在终端中列出、阅读、撰写、回复、转发、搜索和整理邮件。支持多账户和使用 MML（MIME Meta Language）撰写邮件。",
+        "version_text": "1.3",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [
+            "himalaya"
+          ],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.345705Z"
+      },
+      "requirements": {
+        "require_bins": [
+          "himalaya"
+        ],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.345705Z",
+      "config": {}
+    },
+    "majia-prompt-translator": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "majia-prompt-translator",
+        "description": "越用越懂你的AI专家召唤器。无需懂AI，直接说需求，我来理解意图、拆解问题、给出专业结果。支持生成/分析/规划/建议/查询，首次使用自动调研需求方向，用久了几乎一说就懂。",
+        "version_text": "1.0",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.587802Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.587802Z",
+      "config": {}
+    },
+    "make_plan": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "make_plan",
+        "description": "当需要向更强 Agent 请求执行计划时使用；用于获取分步骤、可落地的计划，并由你自己执行，而不是让对方代执行任务。",
+        "version_text": "1.3",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.339359Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.339359Z",
+      "config": {}
+    },
+    "multi_agent_collaboration": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "multi_agent_collaboration",
+        "description": "当需要其他 agent 的专长、上下文或协作支持，或用户明确要求调用其他 agent 时，使用本 skill。先查询可用 agents，再用 eazybot agents chat 进行双向沟通。",
+        "version_text": "1.4",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.116705Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.116705Z",
+      "config": {}
+    },
+    "news": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "news",
+        "description": "为用户从指定新闻网站查找最新新闻。提供政治、财经、社会、国际、科技、体育、娱乐、军事、健康、教育、旅游、汽车和天气等类别的权威 URL。使用 browser_use 打开每个 URL 并通过 snapshot 获取内容，然后为用户总结。",
+        "version_text": "1.4",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.342440Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.342440Z",
+      "config": {}
+    },
+    "ocr-document-processor": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "ocr-document-processor",
+        "description": "Extract text and structure from scans, images, and scanned PDFs. Use for OCR, searchable PDFs, table extraction, receipt parsing, and business card parsing.",
+        "version_text": "1.1",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.675909Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.675909Z",
+      "config": {}
+    },
+    "pdf": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "pdf",
+        "description": "当用户需要对PDF文件进行任何操作时，请使用此技能。包括从 PDF 中读取或提取文本/表格、合并多个 PDF、拆分 PDF、旋转页面、添加水印、创建新PDF、填写PDF表单、加密/解密 PDF、提取图片，以及对扫描版 PDF 进行 OCR 使其可搜索。如果用户提到 .pdf 文件或要求生成 PDF，请使用此技能。",
+        "version_text": "1.1",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.404279Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.404279Z",
+      "config": {}
+    },
+    "pptx": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "pptx",
+        "description": "当涉及到 .pptx 文件的任何操作时使用此技能——无论是作为输入、输出还是两者兼有。包括：创建幻灯片、演示文稿或路演材料；读取、解析或提取任何 .pptx 文件中的文本（即使提取的内容将用于其他地方，如邮件或摘要）；编辑、修改或更新现有演示文稿；合并或拆分幻灯片文件；处理模板、布局、演讲者备注或批注。当用户提到“演示文稿”、”幻灯片“、”PPT“或引用 .pptx 文件名时触发，无论他们之后打算如何使用内容。如果需要打开、创建或操作 .pptx 文件，就使用此技能。",
+        "version_text": "1.1",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.311359Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.311359Z",
+      "config": {}
+    },
+    "skill-creator": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "skill-creator",
+        "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+        "version_text": "1.0",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:08.972702Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:08.972702Z",
+      "config": {}
+    },
+    "xlsx": {
+      "enabled": true,
+      "channels": [
+        "all"
+      ],
+      "source": "builtin",
+      "metadata": {
+        "name": "xlsx",
+        "description": "当电子表格文件是主要输入或输出时使用此技能。这意味着用户想要：打开、读取、编辑或修复现有的 .xlsx、.xlsm、.csv 或 .tsv 文件（例如添加列、计算公式、格式化、制图、清理混乱数据）；从头创建新的电子表格或从其他数据源创建；或在表格文件格式之间进行转换。当用户通过名称或路径引用电子表格文件时特别触发——即使是随意提及（如\"我下载目录里的 xlsx\"）——并且想对其进行操作或从中生成内容。也适用于将混乱的表格数据文件（格式错误的行、错位的表头、垃圾数据）清理或重构为规范的电子表格。交付物必须是电子表格文件。当主要交付物是 Word 文档、HTML 报告、独立 Python 脚本、数据库管道或 Google Sheets API 集成时不触发，即使涉及表格数据也不触发。",
+        "version_text": "1.1",
+        "commit_text": "",
+        "source": "builtin",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-09-12T14:39:09.104499Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-09-12T14:39:09.104499Z",
+      "config": {}
+    }
+  }
+}

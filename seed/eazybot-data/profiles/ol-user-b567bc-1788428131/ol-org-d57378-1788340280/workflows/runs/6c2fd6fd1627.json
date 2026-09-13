@@ -1,0 +1,9 @@
+{
+ "run_id": "6c2fd6fd1627",
+ "workflow_id": "86d8aa510b8d",
+ "status": "failed",
+ "error": "至少需要一个节点",
+ "nodes": {},
+ "started_at": 1789035936748,
+ "ended_at": 1789035936748
+}

@@ -1,0 +1,45 @@
+[当前工作目录: /Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default]
+total 42712
+drwxr-xr-x  17 jiangjie  staff      544 Sep 13 18:39 .
+drwxr-xr-x   3 jiangjie  staff       96 Sep 10 00:05 ..
+drwxr-xr-x   2 jiangjie  staff       64 Sep 10 00:05 .backups
+-rw-r--r--   1 jiangjie  staff        0 Sep 10 00:05 .eazybot_restore.lock
+drwx------   5 jiangjie  staff      160 Sep 13 12:06 .secret
+-rw-r--r--   1 jiangjie  staff      145 Sep 13 12:06 .telemetry_collected
+-rw-r--r--   1 jiangjie  staff    19425 Sep 13 18:38 config.json
+-rw-r--r--   1 jiangjie  staff  5216482 Sep 13 18:39 eazybot.log
+-rw-r--r--   1 jiangjie  staff  5242819 Sep 12 20:16 eazybot.log.1
+-rw-r--r--   1 jiangjie  staff  5242845 Sep 12 15:52 eazybot.log.2
+-rw-r--r--   1 jiangjie  staff  5242846 Sep 12 09:13 eazybot.log.3
+-rw-------   1 jiangjie  staff     1603 Sep 13 13:08 enterprise_sync.json
+lrwxr-xr-x   1 jiangjie  staff       28 Sep 10 00:05 local_models -> ../../../shared/local_models
+drwxr-xr-x  22 jiangjie  staff      704 Sep 13 18:38 skill_pool
+-rw-r--r--   1 jiangjie  staff      668 Sep 13 18:39 token_usage.json
+drwxr-xr-x   4 jiangjie  staff      128 Sep 11 20:44 workflows
+drwxr-xr-x   4 jiangjie  staff      128 Sep 13 13:08 workspaces
+---workspaces---
+default
+ent_ol-aa-dbe74e-1789017120
+---default里的agent.json---
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+MEMORY.md
+PROFILE.md
+SOUL.md
+agent.json
+chats.json
+dialog
+embedding_cache
+file_store
+jobs.json
+media
+memory
+memory_file_metadata.json
+sessions
+skill.json
+skills
+tool_result
+tool_results
+检测报告模板.md
+检测标准速查库.md

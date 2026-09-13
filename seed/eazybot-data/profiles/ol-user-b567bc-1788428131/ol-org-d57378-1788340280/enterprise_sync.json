@@ -1,0 +1,60 @@
+{
+  "agents": {
+    "ol-aa-dbe74e-1789017120": {
+      "local_id": "ent_ol-aa-dbe74e-1789017120",
+      "status": "installed",
+      "install_time": "2026-09-13T13:08:14.009341",
+      "update_time": null,
+      "enterprise_version_no": 1789019599,
+      "enterprise_default_model": "glm-5.3-flash",
+      "skill_ids": [
+        "ol-ask-984a9c-1789017127"
+      ]
+    }
+  },
+  "skills": {
+    "ol-ask-dd68cd-1788956478": {
+      "referenced_by": [
+        "default"
+      ],
+      "status": "installed",
+      "install_time": "2026-09-10T01:12:59.327207",
+      "enterprise_version_no": 1788956478,
+      "retry_later": false,
+      "local_name": "tencent-docs"
+    },
+    "ol-ask-9332cb-1788956474": {
+      "referenced_by": [
+        "default"
+      ],
+      "status": "installed",
+      "install_time": "2026-09-10T01:13:02.066057",
+      "enterprise_version_no": 1788956474,
+      "retry_later": false,
+      "local_name": "qq-mail"
+    },
+    "ol-ask-984a9c-1789017127": {
+      "referenced_by": [
+        "ent_ol-aa-dbe74e-1789017120"
+      ],
+      "status": "installed",
+      "install_time": "2026-09-13T13:08:14.340604",
+      "enterprise_version_no": 1789017867,
+      "retry_later": false,
+      "local_name": "sap-gui"
+    },
+    "ol-ask-dfa2f8-1789110006": {
+      "referenced_by": [
+        "default"
+      ],
+      "status": "installed",
+      "install_time": "2026-09-13T07:47:46.485685",
+      "enterprise_version_no": 1789111201,
+      "retry_later": false,
+      "local_name": "gitea-upload"
+    }
+  },
+  "mcps": {},
+  "last_sync_time": null,
+  "org_id": "ol-org-d57378-1788340280"
+}

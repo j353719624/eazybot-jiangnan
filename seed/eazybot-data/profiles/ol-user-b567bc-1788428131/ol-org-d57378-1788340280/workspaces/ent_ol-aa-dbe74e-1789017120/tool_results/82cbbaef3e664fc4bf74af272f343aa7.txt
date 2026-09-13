@@ -1,0 +1,1063 @@
+[当前工作目录: /Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/ent_ol-aa-dbe74e-1789017120]
+Command failed with exit code 2.
+[stderr]
+warning:  media/金融分析助手-finance.zip appears to use backslashes as path separators
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/agent.json.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/AGENTS.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/BOOTSTRAP.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/HEARTBEAT.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/MEMORY.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/PROFILE.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/SOUL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/browser_cdp/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/browser_visible/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/channel_message/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/chat_with_agent/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/cron/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/dingtalk_channel/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/LICENSE.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/accept_changes.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/comment.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/pack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/soffice.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/unpack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validate.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/helpers/merge_runs.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/helpers/simplify_redlines.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/helpers/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ecma/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/mce/mc.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-2010.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-2012.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-cex-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-cid-2016.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/schemas/microsoft/wml-symex-2015.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validators/base.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validators/docx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validators/pptx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validators/redlining.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/office/validators/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/templates/comments.xml.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/templates/commentsExtended.xml.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/templates/commentsExtensible.xml.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/templates/commentsIds.xml.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/docx/scripts/templates/people.xml.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/equity-market-morning-report/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/exchange-calendars/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/exchange-calendars/references/exchanges.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/exchange-calendars/scripts/trading_calendar.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/file_reader/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/agents.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/hot_topic.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/search_concept.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/security.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/security_clue.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-agent/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/block_constituents.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/company_indicatory.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/concept.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/earning_forecast.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/financial.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/fund_flow.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/industry_indicator.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/main_business.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/quote.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/shareholder.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/references/valuation.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/block_constituents.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/company_indicator.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/concept.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/earning_forecast.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/financial.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/fund_flow.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/industry_indicator.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/main_business.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/quote.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/search_concept.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/security.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/shareholder.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-data/scripts/valuation.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/announcement.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/foreign_opinion.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/foreign_report.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/get_file.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/investment_calendar.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/management-discuss.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/official_account.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/opinion.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/pamirs_summary.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/qa.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/report.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/report_image.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/references/summary.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/announcement.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/foreign_opinion.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/foreign_report.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_announcement_types.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_chiefs.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_file.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_industries.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_institutions.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/get_regions.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/investment_calendar.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/management_discuss.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/official_account.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/opinion.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/pamirs_summary.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/qa.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/report.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/report_image.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/search_account.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/search_chief.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/search_institution.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/security.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/summary.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-file/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-kb/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-kb/scripts/get_file.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-kb/scripts/kb.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-kb/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-market-review/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-market-review/references/template.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-market-review/references/writing-standards.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/references/private_cloud.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/references/private_meeting.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/references/private_record.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/references/stockpool.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/references/wechat_message.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/private_cloud.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/private_meeting.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/private_record.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/stockpool.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-private/scripts/wechat_message.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/assets/hints.json.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/references/indicator.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/references/screener.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/references/troubleshooting.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/references/universe.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/scripts/screener.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/scripts/universe_resolve.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/scripts/universe_strip.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/gangtise-screener/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/global-macro-daily/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/himalaya/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/himalaya/references/configuration.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/GUIDE.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/SPEC.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/_skillhub_meta.json.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/evolution.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/logic.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/output-rules.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/README.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/research.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/majia-prompt-translator/rules/safety-rules.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/make_plan/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/multi_agent_collaboration/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/news/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/scripts/business_card_scanner.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/scripts/ocr_processor.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/scripts/rapid_ocr_engine.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/scripts/receipt_scanner.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/ocr-document-processor/scripts/requirements.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/forms.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/LICENSE.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/reference.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/check_bounding_boxes.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/check_fillable_fields.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/convert_pdf_to_images.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/create_validation_image.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/extract_form_field_info.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/extract_form_structure.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/fill_fillable_fields.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pdf/scripts/fill_pdf_form_with_annotations.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/portfolio-review/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/portfolio-review/references/html-template.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/portfolio-review/scripts/collect_data.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/editing.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/LICENSE.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/pptxgenjs.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/add_slide.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/clean.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/thumbnail.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/pack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/soffice.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/unpack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validate.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/helpers/merge_runs.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/helpers/simplify_redlines.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/helpers/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ecma/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/mce/mc.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-2010.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-2012.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-cex-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-cid-2016.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/schemas/microsoft/wml-symex-2015.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validators/base.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validators/docx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validators/pptx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validators/redlining.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/pptx/scripts/office/validators/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/LICENSE.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/agents/analyzer.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/agents/comparator.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/agents/grader.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/assets/eval_review.html.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/eval-viewer/generate_review.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/eval-viewer/viewer.html.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/references/schemas.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/aggregate_benchmark.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/generate_report.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/improve_description.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/package_skill.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/quick_validate.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/run_eval.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/run_loop.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/utils.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/skill-creator/scripts/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/LICENSE.txt.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/SKILL.md.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/recalc.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/pack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/soffice.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/unpack.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validate.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/helpers/merge_runs.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/helpers/simplify_redlines.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/helpers/__init__.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ecma/.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/mce/mc.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-2010.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-2012.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-cex-2018.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-cid-2016.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/schemas/microsoft/wml-symex-2015.xsd.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validators/base.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validators/docx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validators/pptx.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validators/redlining.py.
+checkdir error:  cannot create /private/tmp/finance_agent/������������讵��
+                 Illegal byte sequence
+                 unable to process ������������讵��/skills/xlsx/scripts/office/validators/__init__.py.

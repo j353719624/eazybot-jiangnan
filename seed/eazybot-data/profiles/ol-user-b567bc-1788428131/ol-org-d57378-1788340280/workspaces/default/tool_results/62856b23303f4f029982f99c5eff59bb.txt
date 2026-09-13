@@ -1,0 +1,49 @@
+[当前工作目录: /Users/jiangjie/.eazybot-jiangnan/profiles/ol-user-b567bc-1788428131/ol-org-d57378-1788340280/workspaces/default]
+===备份根结构===
+HEARTBEAT.md
+config.json
+profiles
+profiles.json
+skill_pool
+workspaces
+===根workspaces===
+default
+===profiles.json===
+{
+  "version": 1,
+  "active_profile_id": "ol-user-9c6c95-1785650766/ol-org-93a2be-1785650766",
+  "profiles": [
+    {
+      "user_id": "ol-user-9c6c95-1785650766",
+      "username": "15250822425",
+      "avatar": null,
+      "org_id": "ol-org-93a2be-1785650766",
+      "org_name": "个人团队",
+      "working_dir": "C:\\Users\\353719624\\.finbot\\profiles\\ol-user-9c6c95-1785650766\\ol-org-93a2be-1785650766",
+      "created_at": "2026-09-13T05:48:02Z",
+      "last_used_at": "2026-09-13T05:57:51Z",
+      "sso": {
+        "access_token_expires_at": 1791870482,
+        "refresh_token_expires_at": 1797054482
+      },
+      "lifecycle_state": "ready",
+      "profile_namespace": "3db702a2b2b8f8f7713324d0f39dc131"
+    },
+    {
+      "user_id": "ol-user-9c6c95-1785650766",
+      "username": "15250822425",
+      "avatar": null,
+      "org_id": "ol-org-1fea79-1774254966",
+      "org_name": "江南电缆",
+      "working_dir": "C:\\Users\\353719624\\.finbot\\profiles\\ol-user-9c6c95-1785650766\\ol-org-1fea79-1774254966",
+      "created_at": "2026-09-13T05:56:58Z",
+      "last_used_at": "2026-09-13T05:57:10Z",
+      "sso": {
+        "access_token_expires_at": 0,
+        "refresh_token_expires_at": 1797055018
+      },
+      "lifecycle_state": "ready",
+      "profile_namespace": "ded7f6893c1c25d9e1cded612737d958"
+    }
+  ]
+}
