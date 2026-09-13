@@ -495,7 +495,7 @@
   },
   "last_api": {
     "host": "127.0.0.1",
-    "port": 52169
+    "port": 49222
   },
   "agents": {
     "active_agent": "default",

@@ -1,11 +1,5 @@
----
-summary: "HEARTBEAT.md 工作区模板"
-read_when:
-  - 手动引导工作区
----
-
-# HEARTBEAT.md
-
-# 保持此文件为空（或只有注释）可跳过 heartbeat API 调用。
-
-# 想让 agent 定期检查什么，就在下面加任务。
+# Heartbeat checklist
+- 扫描收件箱紧急邮件
+- 查看未来 2h 的日历
+- 检查待办是否卡住
+- 若安静超过 8h，轻量 check-in

@@ -1,6 +1,6 @@
 {
   "schema_version": "workspace-skill-manifest.v1",
-  "version": 1789299705743,
+  "version": 1789308937953,
   "skills": {
     "browser_cdp": {
       "enabled": true,
