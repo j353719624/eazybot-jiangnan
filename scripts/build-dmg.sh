@@ -47,7 +47,7 @@ fi
 
 echo "[4/6] 清理 console 预压缩缓存（保证补丁生效）"
 CONSOLE="$STAGE/Contents/Resources/env/lib/python3.1*/site-packages/eazybot/console"
-rm -f "$CONSOLE/assets/index-BiWh193y.js.br" "$CONSOLE/assets/index-BiWh193y.js.gz"
+rm -f "$CONSOLE/assets/index-BiWh193y.js.br" "$CONSOLE/assets/index-BiWh193y.js.gz" "$CONSOLE/assets/index-DGXSMDPA.js.br" "$CONSOLE/assets/index-DGXSMDPA.js.gz"
 
 echo "[5/6] 放入种子数据（首启播种，凭据零打包）"
 mkdir -p "$STAGE/Contents/Resources/seed"
